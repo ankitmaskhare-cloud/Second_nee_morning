@@ -11,7 +11,7 @@ from flask import Flask
 from telebot import TeleBot, types
 from telebot.types import MessageEntity
 
-BOT_TOKEN = "8927459981:AAGfJCG_3Yajtg1dx9J-6nndcUmlFCtXsQg"
+BOT_TOKEN = "8800112468:AAHzOYXA3obKpJxhHwILsxaHOn_2WNLhl3E"
 ADMIN_IDS = [8498419947]
 
 # 📁 RENDER SAFE PATH
